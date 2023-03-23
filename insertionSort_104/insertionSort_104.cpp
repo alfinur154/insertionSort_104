@@ -50,3 +50,12 @@ void insertionSort()
 		}
 	}
 }
+
+void display() {
+	cout << endl;
+	cout << "Total Element Mevement = " << n - 1 << endl;
+	cout << "\n====================" << endl;
+	cout << "Element Array yang telah Tersusun" << endl;
+	cout << "\n====================" << endl;
+
+}
